@@ -1,17 +1,11 @@
-# Getting Started with Create React App
+# Тарасюк карина
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Мой [вк](https://vk.com/id1565926466)
 
-## Available Scripts
+## Ключевые навыки:
 
-In the project directory, you can run:
+`Пунктуальность`
+`Обучаемость`
+`Доброта`
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
+<img src= "https://sun1.mts-by-minsk.userapi.com/impg/-X1Han8qWD4DAeF_2gaYUA7pbWET8N8Ed2lbgw/kppZFq4UYDs.jpg?size=1440x1800&quality=95&sign=bde7e07041259bb8f9b2a6d312b25923&type=album" width="100px" alt="я"/>
