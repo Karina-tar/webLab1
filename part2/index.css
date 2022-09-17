@@ -1,0 +1,28 @@
+* {
+  font-size: 25px;
+}
+
+.cover h1 {
+  font-size: 40px;
+  color: #666;
+
+  display: flex;
+  justify-content: center;
+}
+
+.description {
+  margin: 20px 30px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+span {
+
+}
+
+img {
+  height: auto;
+  max-width: 500px;
+  border-radius: 360px;
+}
