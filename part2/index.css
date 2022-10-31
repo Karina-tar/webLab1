@@ -10,10 +10,16 @@
   justify-content: center;
 }
 
+hr {
+  color: #666;
+}
+
 .description {
   margin: 20px 30px;
   display: flex;
   justify-content: center;
+  align-items: center;
+  
   gap: 50px;
 }
 
