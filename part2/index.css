@@ -1,34 +1,27 @@
-* {
-  font-size: 25px;
+*{
+  font-family: "Arial"
 }
-
-.cover h1 {
-  font-size: 40px;
-  color: #666;
-
-  display: flex;
-  justify-content: center;
-}
-
-hr {
-  color: #666;
-}
-
-.description {
-  margin: 20px 30px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  
-  gap: 50px;
-}
-
-span {
+hr{
+  border: none;
+  height: 1px;
+  background-color: #ccc;
 
 }
-
-img {
-  height: auto;
-  max-width: 500px;
-  border-radius: 360px;
+a{
+  color: blue;
+  text-decoration: none;
+}
+ul li{
+  list-style-type: none;
+  background-color: #ccc;
+  padding: 3px 10px;
+  border-radius: 3px ;
+}
+ul{
+  padding: 0;
+  display:flex;
+  gap:10px;
+}
+img{
+  max-width: 250px;
 }
